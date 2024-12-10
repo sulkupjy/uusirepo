@@ -15,4 +15,4 @@ edellä mainittuihin kategorioihin. Ne ryhmitellään vielä
 samankaltaisuuden perusteella. Ryhmä valitsee näistä sitten
 äänestämällä näistä tärkeimmät aiheet ja sitten niistä keskustellaan.
 Tämän kesto on enintään 60 minuuttia. Tämä menetelmä sopii hyvin
-kaikenkokoisille tiimeille.
+kaikenkokoisille tiimeille. 
